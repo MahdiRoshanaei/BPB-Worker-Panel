@@ -14,3 +14,10 @@
 !NAT64Prefixes.md
 !docs
 !docs/**
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
